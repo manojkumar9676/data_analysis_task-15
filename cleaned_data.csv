@@ -1,0 +1,13 @@
+Category,Product,Sales,Profit,Quantity,Profit_Percentage
+Electronics,Laptop,1200,300,5,25.0
+Electronics,Mobile,800,150,10,18.75
+Electronics,Headphones,400,80,15,20.0
+Clothing,T-Shirt,300,50,20,16.666666666666664
+Clothing,Jeans,600,120,8,20.0
+Clothing,Jacket,900,200,6,22.22222222222222
+Furniture,Chair,700,180,7,25.71428571428571
+Furniture,Table,1000,250,4,25.0
+Furniture,Sofa,1500,400,2,26.666666666666668
+Electronics,Tablet,650,130,9,20.0
+Clothing,Shoes,750,160,12,21.333333333333336
+Furniture,Bed,1800,500,3,27.77777777777778
